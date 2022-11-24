@@ -1,0 +1,19 @@
+{
+	"properties": {
+		"ipConfigurations": [
+		{
+			"name": "ipconfig1",
+			"properties": {
+				"publicIPAddress": {
+					"id": "/subscriptions/8972d885-6556-4c3d-8507-d5eee4ba794e/resourceGroups/resourcewest/providers/Microsoft.Network/publicIPAddresses/lab4ip2"
+				},
+				"subnet": {
+					"id": "/subscriptions/8972d885-6556-4c3d-8507-d5eee4ba794e/resourceGroups/resourcewest/providers/Microsoft.Network/virtualNetworks/resourcewest-vnet/subnets/default"
+				}
+			}
+		}
+		]
+	},
+	"location": "westeurope"
+}
+    

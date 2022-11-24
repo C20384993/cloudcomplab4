@@ -1,0 +1,16 @@
+{
+    "properties": {
+        "provisioningState": "Succeeded",
+        "resourceGuid": "1ca80aaa-9ab8-4414-8ce7-1f340e6bd306",
+        "ipAddress": "13.69.15.64",
+        "publicIPAddressVersion": "IPv4",
+        "publicIPAllocationMethod": "Static",
+        "idleTimeoutInMinutes": 10,
+        "ipTags": []
+    },
+    "type": "Microsoft.Network/publicIPAddresses",
+    "sku": {
+        "name": "Basic"
+    }
+}
+    
